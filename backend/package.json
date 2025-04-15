@@ -12,9 +12,11 @@
   "author": "Arunkumar",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "prisma": "^6.6.0"
   },
   "dependencies": {
+    "@prisma/client": "6.6.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^5.1.0"
